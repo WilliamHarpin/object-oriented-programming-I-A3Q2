@@ -6,3 +6,6 @@ This program prompts the user for the courses they are currently taking, as well
 ## Concepts used
 - Arrays, 2D Arrays
 - Nested loops/if statements
+
+## Sample output
+![Sample Output](https://raw.githubusercontent.com/WilliamHarpin/object-oriented-programming-I-A3Q2/main/screenshotA3Q2/Screen%20Shot%202022-11-10%20at%208.34.00%20PM.png)
